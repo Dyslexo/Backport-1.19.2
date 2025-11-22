@@ -1,0 +1,31 @@
+plugins {
+    id 'fabric-loom' version '1.0-SNAPSHOT' // conservative default; adjust to your local setup if needed
+    id 'java'
+}
+
+group = 'xyz.bluspring'
+version = '20.1.12-backport-1.19.2'
+
+repositories {
+    mavenCentral()
+    maven { url = 'https://maven.fabricmc.net/' }
+    maven { url = 'https://maven.blueskiron.dev/repository/maven-public/' }
+}
+
+java {
+    toolchain { languageVersion = JavaLanguageVersion.of(17) }
+}
+
+dependencies {
+    minecraft "com.mojang:minecraft:1.19.2"
+    mappings "net.fabricmc:yarn:1.19.2+build.1:v2"
+    modImplementation "net.fabricmc:fabric-loader:0.14.23"
+    modImplementation "net.fabricmc.fabric-api:fabric-api:0.76.1+1.19.2"
+}
+
+loom {
+    accessWidener = file("src/main/resources/kilt.accesswidener")
+    mixin {
+        defaultRefmapName = "Kilt-refmap.json"
+    }
+}

@@ -1,0 +1,32 @@
+--- build.gradle.orig+++ build.gradle@@ -1,19 +1,19 @@ plugins {
+-    id 'fabric-loom' version '1.2.+' // placeholder, update to compatible loom version if needed
++    id 'fabric-loom' version '1.0-SNAPSHOT' // conservative default; adjust to your local setup if needed
+     id 'java'
+ }
+ 
+ group = 'xyz.bluspring'
+-version = '1.20.1-backport-1.19.2'
++version = '20.1.12-backport-1.19.2'
+ 
+ repositories {
+     mavenCentral()
+     maven { url = 'https://maven.fabricmc.net/' }
++    maven { url = 'https://maven.blueskiron.dev/repository/maven-public/' }
+ }
+ 
+ java {
+-    sourceCompatibility = JavaVersion.VERSION_17
+-    targetCompatibility = JavaVersion.VERSION_17
++    toolchain { languageVersion = JavaLanguageVersion.of(17) }
+ }
+ 
+ dependencies {
+@@ -24,5 +24,8 @@ }
+ 
+ loom {
+-    // keep default config; you will likely need to tweak remap and mixin settings
++    accessWidener = file("src/main/resources/kilt.accesswidener")
++    mixin {
++        defaultRefmapName = "Kilt-refmap.json"
++    }
+ }

@@ -1,0 +1,946 @@
+accessWidener	v2	intermediary
+accessible	class	net/minecraft/class_3248$class_3249
+accessible	method	net/minecraft/class_7764$class_5790	method_33446	(I)I
+accessible	method	net/minecraft/class_7764$class_5790	method_33451	(I)I
+transitive-accessible	method	net/minecraft/class_1297	method_31745	(Lnet/minecraft/class_1297$class_5529;)V
+transitive-extendable	method	net/minecraft/class_1297	method_31745	(Lnet/minecraft/class_1297$class_5529;)V
+transitive-accessible	method	net/minecraft/class_1761	<init>	(Lnet/minecraft/class_1761$class_7915;ILnet/minecraft/class_1761$class_7916;Lnet/minecraft/class_2561;Ljava/util/function/Supplier;Lnet/minecraft/class_1761$class_7914;)V
+transitive-accessible	class	net/minecraft/class_8005$class_8007
+transitive-accessible	class	net/minecraft/class_2408$class_7405
+transitive-accessible	method	net/minecraft/class_357	method_25347	(D)V
+transitive-extendable	method	net/minecraft/class_357	method_25347	(D)V
+transitive-accessible	method	net/minecraft/class_174	method_767	(Lnet/minecraft/class_179;)Lnet/minecraft/class_179;
+transitive-extendable	method	net/minecraft/class_174	method_767	(Lnet/minecraft/class_179;)Lnet/minecraft/class_179;
+transitive-accessible	field	net/minecraft/class_304	field_1653	Z
+transitive-mutable	field	net/minecraft/class_304	field_1653	Z
+transitive-accessible	field	net/minecraft/class_310	field_1764	Lnet/minecraft/class_1060;
+transitive-mutable	field	net/minecraft/class_310	field_1764	Lnet/minecraft/class_1060;
+transitive-accessible	method	net/minecraft/class_310	method_1546	()V
+transitive-extendable	method	net/minecraft/class_310	method_1546	()V
+transitive-accessible	field	net/minecraft/class_315	field_1839	[Lnet/minecraft/class_304;
+transitive-mutable	field	net/minecraft/class_315	field_1839	[Lnet/minecraft/class_304;
+transitive-accessible	class	net/minecraft/class_315$class_5823
+transitive-extendable	class	net/minecraft/class_315$class_5823
+transitive-accessible	field	net/minecraft/class_329	field_27959	F
+transitive-mutable	field	net/minecraft/class_329	field_27959	F
+transitive-accessible	field	net/minecraft/class_329	field_27389	Lnet/minecraft/class_2960;
+transitive-mutable	field	net/minecraft/class_329	field_27389	Lnet/minecraft/class_2960;
+transitive-accessible	field	net/minecraft/class_329	field_27960	Lnet/minecraft/class_2960;
+transitive-mutable	field	net/minecraft/class_329	field_27960	Lnet/minecraft/class_2960;
+transitive-accessible	field	net/minecraft/class_329	field_32167	I
+transitive-mutable	field	net/minecraft/class_329	field_32167	I
+transitive-accessible	field	net/minecraft/class_329	field_32168	F
+transitive-mutable	field	net/minecraft/class_329	field_32168	F
+transitive-accessible	field	net/minecraft/class_329	field_32169	I
+transitive-mutable	field	net/minecraft/class_329	field_32169	I
+transitive-accessible	field	net/minecraft/class_329	field_32170	I
+transitive-mutable	field	net/minecraft/class_329	field_32170	I
+transitive-accessible	field	net/minecraft/class_329	field_32171	Ljava/lang/String;
+transitive-mutable	field	net/minecraft/class_329	field_32171	Ljava/lang/String;
+transitive-accessible	field	net/minecraft/class_329	field_32172	F
+transitive-mutable	field	net/minecraft/class_329	field_32172	F
+transitive-accessible	field	net/minecraft/class_329	field_33942	I
+transitive-mutable	field	net/minecraft/class_329	field_33942	I
+transitive-accessible	field	net/minecraft/class_329	field_33943	I
+transitive-mutable	field	net/minecraft/class_329	field_33943	I
+transitive-accessible	field	net/minecraft/class_329	field_35428	F
+transitive-mutable	field	net/minecraft/class_329	field_35428	F
+transitive-accessible	field	net/minecraft/class_329	field_35429	F
+transitive-mutable	field	net/minecraft/class_329	field_35429	F
+transitive-accessible	field	net/minecraft/class_329	field_35430	Lnet/minecraft/class_2561;
+transitive-mutable	field	net/minecraft/class_329	field_35430	Lnet/minecraft/class_2561;
+transitive-accessible	field	net/minecraft/class_329	field_35431	F
+transitive-mutable	field	net/minecraft/class_329	field_35431	F
+transitive-accessible	field	net/minecraft/class_329	field_39458	Z
+transitive-mutable	field	net/minecraft/class_329	field_39458	Z
+transitive-accessible	field	net/minecraft/class_329	field_44654	Lnet/minecraft/class_2960;
+transitive-mutable	field	net/minecraft/class_329	field_44654	Lnet/minecraft/class_2960;
+transitive-accessible	field	net/minecraft/class_329	field_2037	I
+transitive-mutable	field	net/minecraft/class_329	field_2037	I
+transitive-accessible	field	net/minecraft/class_329	field_2017	I
+transitive-mutable	field	net/minecraft/class_329	field_2017	I
+transitive-accessible	field	net/minecraft/class_329	field_2036	I
+transitive-mutable	field	net/minecraft/class_329	field_2036	I
+transitive-accessible	field	net/minecraft/class_329	field_2014	I
+transitive-mutable	field	net/minecraft/class_329	field_2014	I
+transitive-accessible	field	net/minecraft/class_329	field_2033	I
+transitive-mutable	field	net/minecraft/class_329	field_2033	I
+transitive-accessible	field	net/minecraft/class_329	field_2012	J
+transitive-mutable	field	net/minecraft/class_329	field_2012	J
+transitive-accessible	field	net/minecraft/class_329	field_2032	J
+transitive-mutable	field	net/minecraft/class_329	field_2032	J
+transitive-accessible	field	net/minecraft/class_329	field_2011	I
+transitive-mutable	field	net/minecraft/class_329	field_2011	I
+transitive-accessible	field	net/minecraft/class_329	field_2029	I
+transitive-mutable	field	net/minecraft/class_329	field_2029	I
+transitive-accessible	field	net/minecraft/class_329	field_2020	Lnet/minecraft/class_2960;
+transitive-mutable	field	net/minecraft/class_329	field_2020	Lnet/minecraft/class_2960;
+transitive-accessible	field	net/minecraft/class_329	field_2028	Lnet/minecraft/class_2960;
+transitive-mutable	field	net/minecraft/class_329	field_2028	Lnet/minecraft/class_2960;
+transitive-accessible	field	net/minecraft/class_329	field_2019	Lnet/minecraft/class_2960;
+transitive-mutable	field	net/minecraft/class_329	field_2019	Lnet/minecraft/class_2960;
+transitive-accessible	field	net/minecraft/class_329	field_26527	Lnet/minecraft/class_2561;
+transitive-mutable	field	net/minecraft/class_329	field_26527	Lnet/minecraft/class_2561;
+transitive-accessible	field	net/minecraft/class_329	field_2034	Lnet/minecraft/class_5819;
+transitive-mutable	field	net/minecraft/class_329	field_2034	Lnet/minecraft/class_5819;
+transitive-accessible	field	net/minecraft/class_329	field_2035	Lnet/minecraft/class_310;
+transitive-mutable	field	net/minecraft/class_329	field_2035	Lnet/minecraft/class_310;
+transitive-accessible	field	net/minecraft/class_329	field_2024	Lnet/minecraft/class_918;
+transitive-mutable	field	net/minecraft/class_329	field_2024	Lnet/minecraft/class_918;
+transitive-accessible	field	net/minecraft/class_329	field_2021	Lnet/minecraft/class_338;
+transitive-mutable	field	net/minecraft/class_329	field_2021	Lnet/minecraft/class_338;
+transitive-accessible	field	net/minecraft/class_329	field_2042	I
+transitive-mutable	field	net/minecraft/class_329	field_2042	I
+transitive-accessible	field	net/minecraft/class_329	field_2018	Lnet/minecraft/class_2561;
+transitive-mutable	field	net/minecraft/class_329	field_2018	Lnet/minecraft/class_2561;
+transitive-accessible	field	net/minecraft/class_329	field_2041	I
+transitive-mutable	field	net/minecraft/class_329	field_2041	I
+transitive-accessible	field	net/minecraft/class_329	field_2038	Z
+transitive-mutable	field	net/minecraft/class_329	field_2038	Z
+transitive-accessible	field	net/minecraft/class_329	field_2040	I
+transitive-mutable	field	net/minecraft/class_329	field_2040	I
+transitive-accessible	field	net/minecraft/class_329	field_2031	Lnet/minecraft/class_1799;
+transitive-mutable	field	net/minecraft/class_329	field_2031	Lnet/minecraft/class_1799;
+transitive-accessible	field	net/minecraft/class_329	field_2026	Lnet/minecraft/class_340;
+transitive-mutable	field	net/minecraft/class_329	field_2026	Lnet/minecraft/class_340;
+transitive-accessible	field	net/minecraft/class_329	field_2027	Lnet/minecraft/class_359;
+transitive-mutable	field	net/minecraft/class_329	field_2027	Lnet/minecraft/class_359;
+transitive-accessible	field	net/minecraft/class_329	field_2025	Lnet/minecraft/class_365;
+transitive-mutable	field	net/minecraft/class_329	field_2025	Lnet/minecraft/class_365;
+transitive-accessible	field	net/minecraft/class_329	field_2015	Lnet/minecraft/class_355;
+transitive-mutable	field	net/minecraft/class_329	field_2015	Lnet/minecraft/class_355;
+transitive-accessible	field	net/minecraft/class_329	field_2030	Lnet/minecraft/class_337;
+transitive-mutable	field	net/minecraft/class_329	field_2030	Lnet/minecraft/class_337;
+transitive-accessible	field	net/minecraft/class_329	field_2023	I
+transitive-mutable	field	net/minecraft/class_329	field_2023	I
+transitive-accessible	field	net/minecraft/class_329	field_2016	Lnet/minecraft/class_2561;
+transitive-mutable	field	net/minecraft/class_329	field_2016	Lnet/minecraft/class_2561;
+transitive-accessible	field	net/minecraft/class_329	field_2039	Lnet/minecraft/class_2561;
+transitive-mutable	field	net/minecraft/class_329	field_2039	Lnet/minecraft/class_2561;
+transitive-accessible	method	net/minecraft/class_329	method_37298	(Lnet/minecraft/class_332;Lnet/minecraft/class_1657;IIIIFIIIZ)V
+transitive-extendable	method	net/minecraft/class_329	method_37298	(Lnet/minecraft/class_332;Lnet/minecraft/class_1657;IIIIFIIIZ)V
+transitive-accessible	method	net/minecraft/class_329	method_1757	(Lnet/minecraft/class_332;Lnet/minecraft/class_266;)V
+transitive-extendable	method	net/minecraft/class_329	method_1757	(Lnet/minecraft/class_332;Lnet/minecraft/class_266;)V
+transitive-accessible	method	net/minecraft/class_329	method_1736	(Lnet/minecraft/class_332;)V
+transitive-extendable	method	net/minecraft/class_329	method_1736	(Lnet/minecraft/class_332;)V
+transitive-accessible	method	net/minecraft/class_329	method_1735	(Lnet/minecraft/class_332;Lnet/minecraft/class_1297;)V
+transitive-extendable	method	net/minecraft/class_329	method_1735	(Lnet/minecraft/class_332;Lnet/minecraft/class_1297;)V
+transitive-accessible	method	net/minecraft/class_329	method_31977	(Lnet/minecraft/class_332;Lnet/minecraft/class_2960;F)V
+transitive-extendable	method	net/minecraft/class_329	method_31977	(Lnet/minecraft/class_332;Lnet/minecraft/class_2960;F)V
+transitive-accessible	method	net/minecraft/class_329	method_32598	(Lnet/minecraft/class_332;F)V
+transitive-extendable	method	net/minecraft/class_329	method_32598	(Lnet/minecraft/class_332;F)V
+transitive-accessible	method	net/minecraft/class_329	method_1746	(Lnet/minecraft/class_332;F)V
+transitive-extendable	method	net/minecraft/class_329	method_1746	(Lnet/minecraft/class_332;F)V
+transitive-accessible	method	net/minecraft/class_329	method_1759	(FLnet/minecraft/class_332;)V
+transitive-extendable	method	net/minecraft/class_329	method_1759	(FLnet/minecraft/class_332;)V
+transitive-accessible	method	net/minecraft/class_329	method_1765	(Lnet/minecraft/class_332;)V
+transitive-extendable	method	net/minecraft/class_329	method_1765	(Lnet/minecraft/class_332;)V
+transitive-accessible	method	net/minecraft/class_329	method_19346	(Lnet/minecraft/class_332;Lnet/minecraft/class_327;III)V
+transitive-extendable	method	net/minecraft/class_329	method_19346	(Lnet/minecraft/class_332;Lnet/minecraft/class_327;III)V
+transitive-accessible	field	net/minecraft/class_350$class_351	field_22752	Lnet/minecraft/class_350;
+transitive-mutable	field	net/minecraft/class_350$class_351	field_22752	Lnet/minecraft/class_350;
+transitive-accessible	field	net/minecraft/class_357	field_41787	Lnet/minecraft/class_2960;
+transitive-mutable	field	net/minecraft/class_357	field_41787	Lnet/minecraft/class_2960;
+transitive-accessible	method	net/minecraft/class_357	method_48204	()I
+transitive-extendable	method	net/minecraft/class_357	method_48204	()I
+transitive-accessible	method	net/minecraft/class_357	method_25356	()I
+transitive-extendable	method	net/minecraft/class_357	method_25356	()I
+transitive-accessible	field	net/minecraft/class_340	field_2082	Lnet/minecraft/class_239;
+transitive-mutable	field	net/minecraft/class_340	field_2082	Lnet/minecraft/class_239;
+transitive-accessible	field	net/minecraft/class_340	field_2083	Lnet/minecraft/class_239;
+transitive-mutable	field	net/minecraft/class_340	field_2083	Lnet/minecraft/class_239;
+transitive-accessible	method	net/minecraft/class_3929	method_17542	(Lnet/minecraft/class_3917;Lnet/minecraft/class_3929$class_3930;)V
+transitive-extendable	method	net/minecraft/class_3929	method_17542	(Lnet/minecraft/class_3917;Lnet/minecraft/class_3929$class_3930;)V
+transitive-accessible	class	net/minecraft/class_3929$class_3930
+transitive-extendable	class	net/minecraft/class_3929$class_3930
+transitive-accessible	field	net/minecraft/class_437	field_33816	Ljava/util/List;
+transitive-mutable	field	net/minecraft/class_437	field_33816	Ljava/util/List;
+transitive-accessible	field	net/minecraft/class_5600	field_27544	Lnet/minecraft/class_5605;
+transitive-mutable	field	net/minecraft/class_5600	field_27544	Lnet/minecraft/class_5605;
+transitive-accessible	field	net/minecraft/class_5600	field_27545	Lnet/minecraft/class_5605;
+transitive-mutable	field	net/minecraft/class_5600	field_27545	Lnet/minecraft/class_5605;
+transitive-accessible	field	net/minecraft/class_634	field_3696	Lcom/mojang/brigadier/CommandDispatcher;
+transitive-mutable	field	net/minecraft/class_634	field_3696	Lcom/mojang/brigadier/CommandDispatcher;
+transitive-accessible	method	net/minecraft/class_677$class_681	method_3030	(DDDDDD[I[IZZ)V
+transitive-extendable	method	net/minecraft/class_677$class_681	method_3030	(DDDDDD[I[IZZ)V
+transitive-accessible	method	net/minecraft/class_677$class_681	method_3031	(DI[I[IZZ)V
+transitive-extendable	method	net/minecraft/class_677$class_681	method_3031	(DI[I[IZZ)V
+transitive-accessible	method	net/minecraft/class_677$class_681	method_3028	(D[[D[I[IZZZ)V
+transitive-extendable	method	net/minecraft/class_677$class_681	method_3028	(D[[D[I[IZZZ)V
+transitive-accessible	method	net/minecraft/class_677$class_681	method_3032	([I[IZZ)V
+transitive-extendable	method	net/minecraft/class_677$class_681	method_3032	([I[IZZ)V
+transitive-accessible	method	net/minecraft/class_702	method_18834	(Lnet/minecraft/class_2396;Lnet/minecraft/class_702$class_4091;)V
+transitive-extendable	method	net/minecraft/class_702	method_18834	(Lnet/minecraft/class_2396;Lnet/minecraft/class_702$class_4091;)V
+transitive-accessible	method	net/minecraft/class_702	method_3043	(Lnet/minecraft/class_2396;Lnet/minecraft/class_707;)V
+transitive-extendable	method	net/minecraft/class_702	method_3043	(Lnet/minecraft/class_2396;Lnet/minecraft/class_707;)V
+transitive-accessible	method	net/minecraft/class_702	method_49338	(Lnet/minecraft/class_2396;Lnet/minecraft/class_707$class_8187;)V
+transitive-extendable	method	net/minecraft/class_702	method_49338	(Lnet/minecraft/class_2396;Lnet/minecraft/class_707$class_8187;)V
+transitive-accessible	class	net/minecraft/class_702$class_4091
+transitive-extendable	class	net/minecraft/class_702$class_4091
+transitive-accessible	method	net/minecraft/class_746	method_5691	()I
+transitive-extendable	method	net/minecraft/class_746	method_5691	()I
+transitive-accessible	method	net/minecraft/class_757	method_3168	(Lnet/minecraft/class_2960;)V
+transitive-extendable	method	net/minecraft/class_757	method_3168	(Lnet/minecraft/class_2960;)V
+transitive-accessible	method	net/minecraft/class_761	method_3270	()Z
+transitive-extendable	method	net/minecraft/class_761	method_3270	()Z
+transitive-accessible	field	net/minecraft/class_4668	field_21361	Ljava/lang/Runnable;
+transitive-mutable	field	net/minecraft/class_4668	field_21361	Ljava/lang/Runnable;
+transitive-accessible	class	net/minecraft/class_4668$class_4670
+transitive-extendable	class	net/minecraft/class_4668$class_4670
+transitive-accessible	class	net/minecraft/class_4668$class_4671
+transitive-extendable	class	net/minecraft/class_4668$class_4671
+transitive-accessible	class	net/minecraft/class_4668$class_4672
+transitive-extendable	class	net/minecraft/class_4668$class_4672
+transitive-accessible	class	net/minecraft/class_4668$class_5939
+transitive-extendable	class	net/minecraft/class_4668$class_5939
+transitive-accessible	class	net/minecraft/class_4668$class_4675
+transitive-extendable	class	net/minecraft/class_4668$class_4675
+transitive-accessible	class	net/minecraft/class_4668$class_4676
+transitive-extendable	class	net/minecraft/class_4668$class_4676
+transitive-accessible	class	net/minecraft/class_4668$class_5940
+transitive-extendable	class	net/minecraft/class_4668$class_5940
+transitive-accessible	class	net/minecraft/class_4668$class_4682
+transitive-extendable	class	net/minecraft/class_4668$class_4682
+transitive-accessible	class	net/minecraft/class_4668$class_4678
+transitive-extendable	class	net/minecraft/class_4668$class_4678
+transitive-accessible	class	net/minecraft/class_4668$class_4679
+transitive-extendable	class	net/minecraft/class_4668$class_4679
+transitive-accessible	class	net/minecraft/class_4668$class_5942
+transitive-extendable	class	net/minecraft/class_4668$class_5942
+transitive-accessible	class	net/minecraft/class_4668$class_4683
+transitive-extendable	class	net/minecraft/class_4668$class_4683
+transitive-accessible	field	net/minecraft/class_4668$class_4683	field_21398	Z
+transitive-mutable	field	net/minecraft/class_4668$class_4683	field_21398	Z
+transitive-accessible	field	net/minecraft/class_4668$class_4683	field_21399	Z
+transitive-mutable	field	net/minecraft/class_4668$class_4683	field_21399	Z
+transitive-accessible	class	net/minecraft/class_4668$class_4684
+transitive-extendable	class	net/minecraft/class_4668$class_4684
+transitive-accessible	class	net/minecraft/class_4668$class_4685
+transitive-extendable	class	net/minecraft/class_4668$class_4685
+transitive-accessible	class	net/minecraft/class_4668$class_4686
+transitive-extendable	class	net/minecraft/class_4668$class_4686
+transitive-accessible	method	net/minecraft/class_1921	method_24049	(Ljava/lang/String;Lnet/minecraft/class_293;Lnet/minecraft/class_293$class_5596;IZZLnet/minecraft/class_1921$class_4688;)Lnet/minecraft/class_1921$class_4687;
+transitive-extendable	method	net/minecraft/class_1921	method_24049	(Ljava/lang/String;Lnet/minecraft/class_293;Lnet/minecraft/class_293$class_5596;IZZLnet/minecraft/class_1921$class_4688;)Lnet/minecraft/class_1921$class_4687;
+transitive-accessible	class	net/minecraft/class_1921$class_4688
+transitive-extendable	class	net/minecraft/class_1921$class_4688
+transitive-accessible	method	net/minecraft/class_785	method_3401	(Lnet/minecraft/class_2350;)[F
+transitive-extendable	method	net/minecraft/class_785	method_3401	(Lnet/minecraft/class_2350;)[F
+transitive-accessible	class	net/minecraft/class_785$class_786
+transitive-extendable	class	net/minecraft/class_785$class_786
+transitive-accessible	method	net/minecraft/class_785$class_786	<init>	()V
+transitive-extendable	method	net/minecraft/class_785$class_786	<init>	()V
+transitive-accessible	class	net/minecraft/class_783$class_784
+transitive-extendable	class	net/minecraft/class_783$class_784
+transitive-accessible	method	net/minecraft/class_783$class_784	<init>	()V
+transitive-extendable	method	net/minecraft/class_783$class_784	<init>	()V
+transitive-accessible	class	net/minecraft/class_787$class_788
+transitive-extendable	class	net/minecraft/class_787$class_788
+transitive-accessible	method	net/minecraft/class_787$class_788	<init>	()V
+transitive-extendable	method	net/minecraft/class_787$class_788	<init>	()V
+transitive-accessible	field	net/minecraft/class_793	field_4251	Ljava/util/Map;
+transitive-mutable	field	net/minecraft/class_793	field_4251	Ljava/util/Map;
+transitive-accessible	field	net/minecraft/class_793	field_4253	Lnet/minecraft/class_793;
+transitive-mutable	field	net/minecraft/class_793	field_4253	Lnet/minecraft/class_793;
+transitive-accessible	field	net/minecraft/class_793	field_4244	Ljava/lang/Boolean;
+transitive-mutable	field	net/minecraft/class_793	field_4244	Ljava/lang/Boolean;
+transitive-accessible	method	net/minecraft/class_793	method_3447	(Lnet/minecraft/class_785;Lnet/minecraft/class_783;Lnet/minecraft/class_1058;Lnet/minecraft/class_2350;Lnet/minecraft/class_3665;Lnet/minecraft/class_2960;)Lnet/minecraft/class_777;
+transitive-extendable	method	net/minecraft/class_793	method_3447	(Lnet/minecraft/class_785;Lnet/minecraft/class_783;Lnet/minecraft/class_1058;Lnet/minecraft/class_2350;Lnet/minecraft/class_3665;Lnet/minecraft/class_2960;)Lnet/minecraft/class_777;
+transitive-accessible	method	net/minecraft/class_801	method_3480	(ILjava/lang/String;Lnet/minecraft/class_7764;)Ljava/util/List;
+transitive-extendable	method	net/minecraft/class_801	method_3480	(ILjava/lang/String;Lnet/minecraft/class_7764;)Ljava/util/List;
+transitive-accessible	class	net/minecraft/class_799$class_800
+transitive-extendable	class	net/minecraft/class_799$class_800
+transitive-accessible	method	net/minecraft/class_799$class_800	<init>	()V
+transitive-extendable	method	net/minecraft/class_799$class_800	<init>	()V
+transitive-accessible	method	net/minecraft/class_806	<init>	()V
+transitive-extendable	method	net/minecraft/class_806	<init>	()V
+transitive-accessible	class	net/minecraft/class_806$class_5827
+transitive-extendable	class	net/minecraft/class_806$class_5827
+transitive-accessible	class	net/minecraft/class_804$class_805
+transitive-extendable	class	net/minecraft/class_804$class_805
+transitive-accessible	method	net/minecraft/class_804$class_805	<init>	()V
+transitive-extendable	method	net/minecraft/class_804$class_805	<init>	()V
+transitive-accessible	field	net/minecraft/class_804$class_805	field_4288	Lorg/joml/Vector3f;
+transitive-mutable	field	net/minecraft/class_804$class_805	field_4288	Lorg/joml/Vector3f;
+transitive-accessible	field	net/minecraft/class_804$class_805	field_4290	Lorg/joml/Vector3f;
+transitive-mutable	field	net/minecraft/class_804$class_805	field_4290	Lorg/joml/Vector3f;
+transitive-accessible	field	net/minecraft/class_804$class_805	field_4289	Lorg/joml/Vector3f;
+transitive-mutable	field	net/minecraft/class_804$class_805	field_4289	Lorg/joml/Vector3f;
+transitive-accessible	class	net/minecraft/class_809$class_810
+transitive-extendable	class	net/minecraft/class_809$class_810
+transitive-accessible	method	net/minecraft/class_809$class_810	<init>	()V
+transitive-extendable	method	net/minecraft/class_809$class_810	<init>	()V
+transitive-accessible	field	net/minecraft/class_824	field_4342	Lnet/minecraft/class_327;
+transitive-mutable	field	net/minecraft/class_824	field_4342	Lnet/minecraft/class_327;
+transitive-accessible	method	net/minecraft/class_5616	method_32144	(Lnet/minecraft/class_2591;Lnet/minecraft/class_5614;)V
+transitive-extendable	method	net/minecraft/class_5616	method_32144	(Lnet/minecraft/class_2591;Lnet/minecraft/class_5614;)V
+transitive-accessible	field	net/minecraft/class_835	field_4389	Lnet/minecraft/class_776;
+transitive-mutable	field	net/minecraft/class_835	field_4389	Lnet/minecraft/class_776;
+transitive-accessible	field	net/minecraft/class_836	field_4390	Ljava/util/Map;
+transitive-mutable	field	net/minecraft/class_836	field_4390	Ljava/util/Map;
+transitive-accessible	field	net/minecraft/class_898	field_4696	Ljava/util/Map;
+transitive-mutable	field	net/minecraft/class_898	field_4696	Ljava/util/Map;
+transitive-accessible	method	net/minecraft/class_5619	method_32173	(Lnet/minecraft/class_1299;Lnet/minecraft/class_5617;)V
+transitive-extendable	method	net/minecraft/class_5619	method_32173	(Lnet/minecraft/class_1299;Lnet/minecraft/class_5617;)V
+transitive-accessible	method	net/minecraft/class_916	method_3998	(Lnet/minecraft/class_1799;)I
+transitive-extendable	method	net/minecraft/class_916	method_3998	(Lnet/minecraft/class_1799;)I
+transitive-accessible	method	net/minecraft/class_918	method_23180	(Lnet/minecraft/class_4587;Lnet/minecraft/class_4588;Ljava/util/List;Lnet/minecraft/class_1799;II)V
+transitive-extendable	method	net/minecraft/class_918	method_23180	(Lnet/minecraft/class_4587;Lnet/minecraft/class_4588;Ljava/util/List;Lnet/minecraft/class_1799;II)V
+transitive-accessible	method	net/minecraft/class_918	method_23182	(Lnet/minecraft/class_1087;Lnet/minecraft/class_1799;IILnet/minecraft/class_4587;Lnet/minecraft/class_4588;)V
+transitive-extendable	method	net/minecraft/class_918	method_23182	(Lnet/minecraft/class_1087;Lnet/minecraft/class_1799;IILnet/minecraft/class_4587;Lnet/minecraft/class_4588;)V
+transitive-accessible	method	net/minecraft/class_922	method_4046	(Lnet/minecraft/class_3887;)Z
+transitive-extendable	method	net/minecraft/class_922	method_4046	(Lnet/minecraft/class_3887;)Z
+transitive-accessible	field	net/minecraft/class_7764	field_40540	[Lnet/minecraft/class_1011;
+transitive-mutable	field	net/minecraft/class_7764	field_40540	[Lnet/minecraft/class_1011;
+transitive-accessible	field	net/minecraft/class_7764	field_40541	Lnet/minecraft/class_7764$class_5790;
+transitive-mutable	field	net/minecraft/class_7764	field_40541	Lnet/minecraft/class_7764$class_5790;
+transitive-accessible	method	net/minecraft/class_7764	method_45819	()I
+transitive-extendable	method	net/minecraft/class_7764	method_45819	()I
+transitive-accessible	method	net/minecraft/class_1065	method_45857	(Ljava/nio/file/Path;)Lnet/minecraft/class_3268;
+transitive-extendable	method	net/minecraft/class_1065	method_45857	(Ljava/nio/file/Path;)Lnet/minecraft/class_3268;
+transitive-accessible	field	net/minecraft/class_4075	field_18230	Lnet/minecraft/class_1059;
+transitive-mutable	field	net/minecraft/class_4075	field_18230	Lnet/minecraft/class_1059;
+transitive-accessible	method	net/minecraft/class_1088	method_4718	(Lnet/minecraft/class_2960;)Lnet/minecraft/class_793;
+transitive-extendable	method	net/minecraft/class_1088	method_4718	(Lnet/minecraft/class_2960;)Lnet/minecraft/class_793;
+transitive-accessible	method	net/minecraft/class_1093$class_1094	<init>	(ZZZLnet/minecraft/class_809;Lnet/minecraft/class_806;)V
+transitive-extendable	method	net/minecraft/class_1093$class_1094	<init>	(ZZZLnet/minecraft/class_809;Lnet/minecraft/class_806;)V
+transitive-accessible	field	net/minecraft/class_1140	field_5552	Lnet/minecraft/class_1144;
+transitive-mutable	field	net/minecraft/class_1140	field_5552	Lnet/minecraft/class_1144;
+transitive-accessible	field	net/minecraft/class_2168	field_9819	Lnet/minecraft/class_2165;
+transitive-mutable	field	net/minecraft/class_2168	field_9819	Lnet/minecraft/class_2165;
+transitive-accessible	method	net/minecraft/class_2303	method_9878	()V
+transitive-extendable	method	net/minecraft/class_2303	method_9878	()V
+transitive-accessible	method	net/minecraft/class_2303	method_9874	()V
+transitive-extendable	method	net/minecraft/class_2303	method_9874	()V
+transitive-accessible	method	net/minecraft/class_2306	method_9961	(Ljava/lang/String;Lnet/minecraft/class_2306$class_2307;Ljava/util/function/Predicate;Lnet/minecraft/class_2561;)V
+transitive-extendable	method	net/minecraft/class_2306	method_9961	(Ljava/lang/String;Lnet/minecraft/class_2306$class_2307;Ljava/util/function/Predicate;Lnet/minecraft/class_2561;)V
+transitive-accessible	method	net/minecraft/class_6880$class_6883	method_40235	(Ljava/util/Collection;)V
+transitive-extendable	method	net/minecraft/class_6880$class_6883	method_40235	(Ljava/util/Collection;)V
+transitive-accessible	method	net/minecraft/class_6880$class_6883	method_45917	(Lnet/minecraft/class_5321;)V
+transitive-extendable	method	net/minecraft/class_6880$class_6883	method_45917	(Lnet/minecraft/class_5321;)V
+transitive-accessible	method	net/minecraft/class_6880$class_6883	method_45918	(Ljava/lang/Object;)V
+transitive-extendable	method	net/minecraft/class_6880$class_6883	method_45918	(Ljava/lang/Object;)V
+transitive-accessible	class	net/minecraft/class_6880$class_6883$class_6884
+transitive-extendable	class	net/minecraft/class_6880$class_6883$class_6884
+transitive-accessible	method	net/minecraft/class_6885$class_6888	method_40250	(Ljava/util/List;)V
+transitive-extendable	method	net/minecraft/class_6885$class_6888	method_40250	(Ljava/util/List;)V
+transitive-accessible	field	net/minecraft/class_2361	field_11099	I
+transitive-mutable	field	net/minecraft/class_2361	field_11099	I
+transitive-accessible	field	net/minecraft/class_2361	field_11100	Lit/unimi/dsi/fastutil/objects/Object2IntMap;
+transitive-mutable	field	net/minecraft/class_2361	field_11100	Lit/unimi/dsi/fastutil/objects/Object2IntMap;
+transitive-accessible	field	net/minecraft/class_2361	field_11098	Ljava/util/List;
+transitive-mutable	field	net/minecraft/class_2361	field_11098	Ljava/util/List;
+transitive-accessible	field	net/minecraft/class_2370	field_40584	Ljava/util/Map;
+transitive-mutable	field	net/minecraft/class_2370	field_40584	Ljava/util/Map;
+transitive-accessible	class	net/minecraft/class_7782$class_7783
+transitive-accessible	method	net/minecraft/class_2396	<init>	(ZLnet/minecraft/class_2394$class_2395;)V
+transitive-extendable	method	net/minecraft/class_2396	<init>	(ZLnet/minecraft/class_2394$class_2395;)V
+transitive-accessible	method	net/minecraft/class_2400	<init>	(Z)V
+transitive-extendable	method	net/minecraft/class_2400	<init>	(Z)V
+transitive-accessible	method	net/minecraft/class_7788	method_46003	(Lnet/minecraft/class_1935;)Lnet/minecraft/class_52$class_53;
+transitive-extendable	method	net/minecraft/class_7788	method_46003	(Lnet/minecraft/class_1935;)Lnet/minecraft/class_52$class_53;
+transitive-accessible	method	net/minecraft/class_7788	method_46009	(Lnet/minecraft/class_1935;)Lnet/minecraft/class_52$class_53;
+transitive-extendable	method	net/minecraft/class_7788	method_46009	(Lnet/minecraft/class_1935;)Lnet/minecraft/class_52$class_53;
+transitive-accessible	method	net/minecraft/class_7788	method_45991	(Lnet/minecraft/class_2248;Lnet/minecraft/class_5341$class_210;Lnet/minecraft/class_79$class_80;)Lnet/minecraft/class_52$class_53;
+transitive-extendable	method	net/minecraft/class_7788	method_45991	(Lnet/minecraft/class_2248;Lnet/minecraft/class_5341$class_210;Lnet/minecraft/class_79$class_80;)Lnet/minecraft/class_52$class_53;
+transitive-accessible	method	net/minecraft/class_7789	method_46027	(Lnet/minecraft/class_1299;)Z
+transitive-extendable	method	net/minecraft/class_7789	method_46027	(Lnet/minecraft/class_1299;)Z
+transitive-accessible	field	net/minecraft/class_2446	field_39378	Lnet/minecraft/class_7784$class_7489;
+transitive-mutable	field	net/minecraft/class_2446	field_39378	Lnet/minecraft/class_7784$class_7489;
+transitive-accessible	field	net/minecraft/class_2446	field_39379	Lnet/minecraft/class_7784$class_7489;
+transitive-mutable	field	net/minecraft/class_2446	field_39379	Lnet/minecraft/class_7784$class_7489;
+transitive-accessible	method	net/minecraft/class_2446	method_10422	(Lnet/minecraft/class_2248;)Lnet/minecraft/class_2037$class_2039;
+transitive-extendable	method	net/minecraft/class_2446	method_10422	(Lnet/minecraft/class_2248;)Lnet/minecraft/class_2037$class_2039;
+transitive-accessible	method	net/minecraft/class_2446	method_10423	([Lnet/minecraft/class_2073;)Lnet/minecraft/class_2066$class_2068;
+transitive-extendable	method	net/minecraft/class_2446	method_10423	([Lnet/minecraft/class_2073;)Lnet/minecraft/class_2066$class_2068;
+transitive-accessible	method	net/minecraft/class_2446	method_35914	(Lnet/minecraft/class_2096$class_2100;Lnet/minecraft/class_1935;)Lnet/minecraft/class_2066$class_2068;
+transitive-extendable	method	net/minecraft/class_2446	method_35914	(Lnet/minecraft/class_2096$class_2100;Lnet/minecraft/class_1935;)Lnet/minecraft/class_2066$class_2068;
+transitive-accessible	method	net/minecraft/class_2446	method_33533	(Lnet/minecraft/class_5794;Lnet/minecraft/class_5794$class_5796;)Lnet/minecraft/class_2248;
+transitive-extendable	method	net/minecraft/class_2446	method_33533	(Lnet/minecraft/class_5794;Lnet/minecraft/class_5794$class_5796;)Lnet/minecraft/class_2248;
+transitive-accessible	method	net/minecraft/class_2446	method_33542	(Lnet/minecraft/class_1935;Lnet/minecraft/class_1856;)Lnet/minecraft/class_5797;
+transitive-extendable	method	net/minecraft/class_2446	method_33542	(Lnet/minecraft/class_1935;Lnet/minecraft/class_1856;)Lnet/minecraft/class_5797;
+transitive-accessible	method	net/minecraft/class_2446	method_33546	(Lnet/minecraft/class_1935;Lnet/minecraft/class_1856;)Lnet/minecraft/class_5797;
+transitive-extendable	method	net/minecraft/class_2446	method_33546	(Lnet/minecraft/class_1935;Lnet/minecraft/class_1856;)Lnet/minecraft/class_5797;
+transitive-accessible	method	net/minecraft/class_2446	method_33548	(Lnet/minecraft/class_1935;Lnet/minecraft/class_1856;)Lnet/minecraft/class_5797;
+transitive-extendable	method	net/minecraft/class_2446	method_33548	(Lnet/minecraft/class_1935;Lnet/minecraft/class_1856;)Lnet/minecraft/class_5797;
+transitive-accessible	method	net/minecraft/class_2446	method_33553	(Lnet/minecraft/class_1935;Lnet/minecraft/class_1856;)Lnet/minecraft/class_5797;
+transitive-extendable	method	net/minecraft/class_2446	method_33553	(Lnet/minecraft/class_1935;Lnet/minecraft/class_1856;)Lnet/minecraft/class_5797;
+transitive-accessible	method	net/minecraft/class_2446	method_33555	(Lnet/minecraft/class_1935;Lnet/minecraft/class_1856;)Lnet/minecraft/class_5797;
+transitive-extendable	method	net/minecraft/class_2446	method_33555	(Lnet/minecraft/class_1935;Lnet/minecraft/class_1856;)Lnet/minecraft/class_5797;
+transitive-accessible	method	net/minecraft/class_2446	method_34662	(Ljava/util/function/Consumer;Lnet/minecraft/class_1935;Lnet/minecraft/class_1935;)V
+transitive-extendable	method	net/minecraft/class_2446	method_34662	(Ljava/util/function/Consumer;Lnet/minecraft/class_1935;Lnet/minecraft/class_1935;)V
+transitive-accessible	method	net/minecraft/class_2446	method_36547	(Lnet/minecraft/class_7800;Lnet/minecraft/class_1935;Lnet/minecraft/class_1856;)Lnet/minecraft/class_2447;
+transitive-extendable	method	net/minecraft/class_2446	method_36547	(Lnet/minecraft/class_7800;Lnet/minecraft/class_1935;Lnet/minecraft/class_1856;)Lnet/minecraft/class_2447;
+transitive-accessible	method	net/minecraft/class_2446	method_36232	(Ljava/util/function/Consumer;Lnet/minecraft/class_1865;Ljava/util/List;Lnet/minecraft/class_7800;Lnet/minecraft/class_1935;FILjava/lang/String;Ljava/lang/String;)V
+transitive-extendable	method	net/minecraft/class_2446	method_36232	(Ljava/util/function/Consumer;Lnet/minecraft/class_1865;Ljava/util/List;Lnet/minecraft/class_7800;Lnet/minecraft/class_1935;FILjava/lang/String;Ljava/lang/String;)V
+transitive-accessible	method	net/minecraft/class_2446	method_33531	(Lnet/minecraft/class_7800;Lnet/minecraft/class_1935;Lnet/minecraft/class_1856;)Lnet/minecraft/class_5797;
+transitive-extendable	method	net/minecraft/class_2446	method_33531	(Lnet/minecraft/class_7800;Lnet/minecraft/class_1935;Lnet/minecraft/class_1856;)Lnet/minecraft/class_5797;
+transitive-accessible	method	net/minecraft/class_2446	method_33537	(Lnet/minecraft/class_7800;Lnet/minecraft/class_1935;Lnet/minecraft/class_1856;)Lnet/minecraft/class_5797;
+transitive-extendable	method	net/minecraft/class_2446	method_33537	(Lnet/minecraft/class_7800;Lnet/minecraft/class_1935;Lnet/minecraft/class_1856;)Lnet/minecraft/class_5797;
+transitive-accessible	method	net/minecraft/class_2446	method_32806	(Lnet/minecraft/class_7800;Lnet/minecraft/class_1935;Lnet/minecraft/class_1856;)Lnet/minecraft/class_5797;
+transitive-extendable	method	net/minecraft/class_2446	method_32806	(Lnet/minecraft/class_7800;Lnet/minecraft/class_1935;Lnet/minecraft/class_1856;)Lnet/minecraft/class_5797;
+transitive-accessible	method	net/minecraft/class_2446	method_36447	(Ljava/util/function/Consumer;Lnet/minecraft/class_7800;Lnet/minecraft/class_1935;Lnet/minecraft/class_7800;Lnet/minecraft/class_1935;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+transitive-extendable	method	net/minecraft/class_2446	method_36447	(Ljava/util/function/Consumer;Lnet/minecraft/class_7800;Lnet/minecraft/class_1935;Lnet/minecraft/class_7800;Lnet/minecraft/class_1935;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+transitive-accessible	method	net/minecraft/class_2446	method_36448	(Ljava/util/function/Consumer;Ljava/lang/String;Lnet/minecraft/class_1865;ILnet/minecraft/class_1935;Lnet/minecraft/class_1935;F)V
+transitive-extendable	method	net/minecraft/class_2446	method_36448	(Ljava/util/function/Consumer;Ljava/lang/String;Lnet/minecraft/class_1865;ILnet/minecraft/class_1935;Lnet/minecraft/class_1935;F)V
+transitive-accessible	class	net/minecraft/class_2447$class_2448
+transitive-extendable	class	net/minecraft/class_2447$class_2448
+transitive-accessible	field	net/minecraft/class_7803	field_40652	Lcom/google/common/collect/ImmutableList;
+transitive-mutable	field	net/minecraft/class_7803	field_40652	Lcom/google/common/collect/ImmutableList;
+transitive-accessible	field	net/minecraft/class_7803	field_40653	Lcom/google/common/collect/ImmutableList;
+transitive-mutable	field	net/minecraft/class_7803	field_40653	Lcom/google/common/collect/ImmutableList;
+transitive-accessible	field	net/minecraft/class_7803	field_40654	Lcom/google/common/collect/ImmutableList;
+transitive-mutable	field	net/minecraft/class_7803	field_40654	Lcom/google/common/collect/ImmutableList;
+transitive-accessible	field	net/minecraft/class_7803	field_40656	Lcom/google/common/collect/ImmutableList;
+transitive-mutable	field	net/minecraft/class_7803	field_40656	Lcom/google/common/collect/ImmutableList;
+transitive-accessible	field	net/minecraft/class_7803	field_40655	Lcom/google/common/collect/ImmutableList;
+transitive-mutable	field	net/minecraft/class_7803	field_40655	Lcom/google/common/collect/ImmutableList;
+transitive-accessible	field	net/minecraft/class_7803	field_40659	Lcom/google/common/collect/ImmutableList;
+transitive-mutable	field	net/minecraft/class_7803	field_40659	Lcom/google/common/collect/ImmutableList;
+transitive-accessible	field	net/minecraft/class_7803	field_40658	Lcom/google/common/collect/ImmutableList;
+transitive-mutable	field	net/minecraft/class_7803	field_40658	Lcom/google/common/collect/ImmutableList;
+transitive-accessible	field	net/minecraft/class_7803	field_40657	Lcom/google/common/collect/ImmutableList;
+transitive-mutable	field	net/minecraft/class_7803	field_40657	Lcom/google/common/collect/ImmutableList;
+transitive-accessible	method	net/minecraft/class_5475	method_10321	()Ljava/lang/String;
+transitive-extendable	method	net/minecraft/class_5475	method_10321	()Ljava/lang/String;
+transitive-accessible	class	net/minecraft/class_7889$class_7890
+transitive-extendable	class	net/minecraft/class_7889$class_7890
+transitive-accessible	field	net/minecraft/class_2474	field_11481	Ljava/util/Map;
+transitive-mutable	field	net/minecraft/class_2474	field_11481	Ljava/util/Map;
+transitive-accessible	method	net/minecraft/class_2474	method_10321	()Ljava/lang/String;
+transitive-extendable	method	net/minecraft/class_2474	method_10321	()Ljava/lang/String;
+transitive-accessible	class	net/minecraft/class_2474$class_5124
+transitive-extendable	class	net/minecraft/class_2474$class_5124
+transitive-accessible	method	net/minecraft/class_6306	<init>	(Ljava/lang/Thread;Lnet/minecraft/class_32$class_5143;Lnet/minecraft/class_3283;Lnet/minecraft/class_6904;Ljava/util/Collection;Lnet/minecraft/class_2338;)V
+transitive-extendable	method	net/minecraft/class_6306	<init>	(Ljava/lang/Thread;Lnet/minecraft/class_32$class_5143;Lnet/minecraft/class_3283;Lnet/minecraft/class_6904;Ljava/util/Collection;Lnet/minecraft/class_2338;)V
+transitive-accessible	method	net/minecraft/class_2960	method_29185	(C)Z
+transitive-extendable	method	net/minecraft/class_2960	method_29185	(C)Z
+transitive-accessible	method	net/minecraft/class_2960	method_20208	(Ljava/lang/String;)Z
+transitive-extendable	method	net/minecraft/class_2960	method_20208	(Ljava/lang/String;)Z
+transitive-accessible	method	net/minecraft/class_2960	method_20209	(Ljava/lang/String;)Z
+transitive-extendable	method	net/minecraft/class_2960	method_20209	(Ljava/lang/String;)Z
+transitive-accessible	field	net/minecraft/server/MinecraftServer	field_4571	J
+transitive-mutable	field	net/minecraft/server/MinecraftServer	field_4571	J
+transitive-accessible	class	net/minecraft/server/MinecraftServer$class_6897
+transitive-extendable	class	net/minecraft/server/MinecraftServer$class_6897
+transitive-accessible	field	net/minecraft/class_3176	field_13815	Ljava/util/List;
+transitive-mutable	field	net/minecraft/class_3176	field_13815	Ljava/util/List;
+transitive-accessible	field	net/minecraft/class_3215	field_13945	Lnet/minecraft/class_3218;
+transitive-mutable	field	net/minecraft/class_3215	field_13945	Lnet/minecraft/class_3218;
+transitive-accessible	method	net/minecraft/class_3218	method_31592	()Lnet/minecraft/class_5577;
+transitive-extendable	method	net/minecraft/class_3218	method_31592	()Lnet/minecraft/class_5577;
+transitive-accessible	field	net/minecraft/class_3222	field_13986	I
+transitive-mutable	field	net/minecraft/class_3222	field_13986	I
+transitive-accessible	method	net/minecraft/class_3222	method_14235	(Lnet/minecraft/class_1703;)V
+transitive-extendable	method	net/minecraft/class_3222	method_14235	(Lnet/minecraft/class_1703;)V
+transitive-accessible	method	net/minecraft/class_3222	method_14237	()V
+transitive-extendable	method	net/minecraft/class_3222	method_14237	()V
+transitive-accessible	field	net/minecraft/class_3244	field_14127	Lnet/minecraft/class_2535;
+transitive-mutable	field	net/minecraft/class_3244	field_14127	Lnet/minecraft/class_2535;
+transitive-accessible	field	net/minecraft/class_3248	field_14160	Lcom/mojang/authlib/GameProfile;
+transitive-mutable	field	net/minecraft/class_3248	field_14160	Lcom/mojang/authlib/GameProfile;
+transitive-accessible	method	net/minecraft/class_3286	method_45287	()Lnet/minecraft/class_3268;
+transitive-extendable	method	net/minecraft/class_3286	method_45287	()Lnet/minecraft/class_3268;
+transitive-accessible	field	net/minecraft/class_3294	field_14283	Ljava/util/List;
+transitive-mutable	field	net/minecraft/class_3294	field_14283	Ljava/util/List;
+transitive-accessible	class	net/minecraft/class_5699$class_6495
+transitive-extendable	class	net/minecraft/class_5699$class_6495
+transitive-accessible	class	net/minecraft/class_7046$class_7047
+transitive-extendable	class	net/minecraft/class_7046$class_7047
+transitive-accessible	method	net/minecraft/class_1255	method_5382	(Ljava/lang/Runnable;)Ljava/util/concurrent/CompletableFuture;
+transitive-extendable	method	net/minecraft/class_1255	method_5382	(Ljava/lang/Runnable;)Ljava/util/concurrent/CompletableFuture;
+transitive-accessible	field	net/minecraft/class_1283	field_42274	Lnet/minecraft/class_2583;
+transitive-mutable	field	net/minecraft/class_1283	field_42274	Lnet/minecraft/class_2583;
+transitive-accessible	method	net/minecraft/class_1283	method_5544	()Lnet/minecraft/class_1281;
+transitive-extendable	method	net/minecraft/class_1283	method_5544	()Lnet/minecraft/class_1281;
+transitive-accessible	method	net/minecraft/class_1283	method_52190	(Lnet/minecraft/class_1281;Lnet/minecraft/class_1297;)Lnet/minecraft/class_2561;
+transitive-extendable	method	net/minecraft/class_1283	method_52190	(Lnet/minecraft/class_1281;Lnet/minecraft/class_1297;)Lnet/minecraft/class_2561;
+transitive-accessible	method	net/minecraft/class_1282	<init>	(Lnet/minecraft/class_6880;Lnet/minecraft/class_1297;Lnet/minecraft/class_1297;Lnet/minecraft/class_243;)V
+transitive-extendable	method	net/minecraft/class_1282	<init>	(Lnet/minecraft/class_6880;Lnet/minecraft/class_1297;Lnet/minecraft/class_1297;Lnet/minecraft/class_243;)V
+transitive-accessible	method	net/minecraft/class_8109	method_48795	(Lnet/minecraft/class_5321;)Lnet/minecraft/class_1282;
+transitive-extendable	method	net/minecraft/class_8109	method_48795	(Lnet/minecraft/class_5321;)Lnet/minecraft/class_1282;
+transitive-accessible	method	net/minecraft/class_8109	method_48796	(Lnet/minecraft/class_5321;Lnet/minecraft/class_1297;)Lnet/minecraft/class_1282;
+transitive-extendable	method	net/minecraft/class_8109	method_48796	(Lnet/minecraft/class_5321;Lnet/minecraft/class_1297;)Lnet/minecraft/class_1282;
+transitive-accessible	method	net/minecraft/class_8109	method_48797	(Lnet/minecraft/class_5321;Lnet/minecraft/class_1297;Lnet/minecraft/class_1297;)Lnet/minecraft/class_1282;
+transitive-extendable	method	net/minecraft/class_8109	method_48797	(Lnet/minecraft/class_5321;Lnet/minecraft/class_1297;Lnet/minecraft/class_1297;)Lnet/minecraft/class_1282;
+transitive-accessible	field	net/minecraft/class_8109	field_42296	Lnet/minecraft/class_2378;
+transitive-mutable	field	net/minecraft/class_8109	field_42296	Lnet/minecraft/class_2378;
+transitive-accessible	field	net/minecraft/class_1297	field_5978	Ljava/util/concurrent/atomic/AtomicInteger;
+transitive-mutable	field	net/minecraft/class_1297	field_5978	Ljava/util/concurrent/atomic/AtomicInteger;
+transitive-accessible	method	net/minecraft/class_1297	method_5653	()Ljava/lang/String;
+transitive-extendable	method	net/minecraft/class_1297	method_5653	()Ljava/lang/String;
+transitive-accessible	field	net/minecraft/class_1303	field_6159	I
+transitive-mutable	field	net/minecraft/class_1303	field_6159	I
+transitive-accessible	field	net/minecraft/class_1308	field_6201	Lnet/minecraft/class_1355;
+transitive-mutable	field	net/minecraft/class_1308	field_6201	Lnet/minecraft/class_1355;
+transitive-accessible	field	net/minecraft/class_1308	field_6185	Lnet/minecraft/class_1355;
+transitive-mutable	field	net/minecraft/class_1308	field_6185	Lnet/minecraft/class_1355;
+transitive-accessible	method	net/minecraft/class_1317	method_20637	(Lnet/minecraft/class_1299;Lnet/minecraft/class_1317$class_1319;Lnet/minecraft/class_2902$class_2903;Lnet/minecraft/class_1317$class_4306;)V
+transitive-extendable	method	net/minecraft/class_1317	method_20637	(Lnet/minecraft/class_1299;Lnet/minecraft/class_1317$class_1319;Lnet/minecraft/class_2902$class_2903;Lnet/minecraft/class_1317$class_4306;)V
+transitive-accessible	method	net/minecraft/class_4140	<init>	(Ljava/util/Optional;)V
+transitive-extendable	method	net/minecraft/class_4140	<init>	(Ljava/util/Optional;)V
+transitive-accessible	method	net/minecraft/class_4149	<init>	(Ljava/util/function/Supplier;)V
+transitive-extendable	method	net/minecraft/class_4149	<init>	(Ljava/util/function/Supplier;)V
+transitive-accessible	method	net/minecraft/class_1541	method_6971	()V
+transitive-extendable	method	net/minecraft/class_1541	method_6971	()V
+transitive-accessible	method	net/minecraft/class_1547	method_6998	()Lnet/minecraft/class_3414;
+transitive-extendable	method	net/minecraft/class_1547	method_6998	()Lnet/minecraft/class_3414;
+transitive-accessible	method	net/minecraft/class_1613	method_6998	()Lnet/minecraft/class_3414;
+transitive-extendable	method	net/minecraft/class_1613	method_6998	()Lnet/minecraft/class_3414;
+transitive-accessible	method	net/minecraft/class_1627	method_6998	()Lnet/minecraft/class_3414;
+transitive-extendable	method	net/minecraft/class_1627	method_6998	()Lnet/minecraft/class_3414;
+transitive-accessible	method	net/minecraft/class_1639	method_6998	()Lnet/minecraft/class_3414;
+transitive-extendable	method	net/minecraft/class_1639	method_6998	()Lnet/minecraft/class_3414;
+transitive-accessible	method	net/minecraft/class_3854	<init>	(Ljava/lang/String;)V
+transitive-extendable	method	net/minecraft/class_3854	<init>	(Ljava/lang/String;)V
+transitive-accessible	method	net/minecraft/class_1657	method_7346	()V
+transitive-extendable	method	net/minecraft/class_1657	method_7346	()V
+transitive-accessible	method	net/minecraft/class_1676	<init>	(Lnet/minecraft/class_1299;Lnet/minecraft/class_1937;)V
+transitive-extendable	method	net/minecraft/class_1676	<init>	(Lnet/minecraft/class_1299;Lnet/minecraft/class_1937;)V
+transitive-accessible	field	net/minecraft/class_3765$class_3766	field_16636	[Lnet/minecraft/class_3765$class_3766;
+transitive-mutable	field	net/minecraft/class_3765$class_3766	field_16636	[Lnet/minecraft/class_3765$class_3766;
+transitive-accessible	method	net/minecraft/class_4168	<init>	(Ljava/lang/String;)V
+transitive-extendable	method	net/minecraft/class_4168	<init>	(Ljava/lang/String;)V
+transitive-accessible	method	net/minecraft/class_1688	method_42670	()Lnet/minecraft/class_1792;
+transitive-extendable	method	net/minecraft/class_1688	method_42670	()Lnet/minecraft/class_1792;
+transitive-accessible	field	net/minecraft/class_1706	field_7776	I
+transitive-mutable	field	net/minecraft/class_1706	field_7776	I
+transitive-accessible	method	net/minecraft/class_3917	<init>	(Lnet/minecraft/class_3917$class_3918;Lnet/minecraft/class_7699;)V
+transitive-extendable	method	net/minecraft/class_3917	<init>	(Lnet/minecraft/class_3917$class_3918;Lnet/minecraft/class_7699;)V
+transitive-accessible	class	net/minecraft/class_3917$class_3918
+transitive-extendable	class	net/minecraft/class_3917$class_3918
+transitive-accessible	class	net/minecraft/class_1761$class_7704
+transitive-extendable	class	net/minecraft/class_1761$class_7704
+transitive-accessible	class	net/minecraft/class_1761$class_7705
+transitive-extendable	class	net/minecraft/class_1761$class_7705
+transitive-accessible	field	net/minecraft/class_7706	field_41059	Lnet/minecraft/class_5321;
+transitive-mutable	field	net/minecraft/class_7706	field_41059	Lnet/minecraft/class_5321;
+transitive-accessible	field	net/minecraft/class_7706	field_40205	Lnet/minecraft/class_5321;
+transitive-mutable	field	net/minecraft/class_7706	field_40205	Lnet/minecraft/class_5321;
+transitive-accessible	field	net/minecraft/class_7706	field_40200	Lnet/minecraft/class_5321;
+transitive-mutable	field	net/minecraft/class_7706	field_40200	Lnet/minecraft/class_5321;
+transitive-accessible	field	net/minecraft/class_7706	field_40743	Lnet/minecraft/class_5321;
+transitive-mutable	field	net/minecraft/class_7706	field_40743	Lnet/minecraft/class_5321;
+transitive-accessible	field	net/minecraft/class_7706	field_40195	Lnet/minecraft/class_5321;
+transitive-mutable	field	net/minecraft/class_7706	field_40195	Lnet/minecraft/class_5321;
+transitive-accessible	field	net/minecraft/class_7706	field_40197	Lnet/minecraft/class_5321;
+transitive-mutable	field	net/minecraft/class_7706	field_40197	Lnet/minecraft/class_5321;
+transitive-accessible	field	net/minecraft/class_7706	field_40202	Lnet/minecraft/class_5321;
+transitive-mutable	field	net/minecraft/class_7706	field_40202	Lnet/minecraft/class_5321;
+transitive-accessible	field	net/minecraft/class_7706	field_41063	Lnet/minecraft/class_5321;
+transitive-mutable	field	net/minecraft/class_7706	field_41063	Lnet/minecraft/class_5321;
+transitive-accessible	field	net/minecraft/class_7706	field_41061	Lnet/minecraft/class_5321;
+transitive-mutable	field	net/minecraft/class_7706	field_41061	Lnet/minecraft/class_5321;
+transitive-accessible	field	net/minecraft/class_7706	field_41060	Lnet/minecraft/class_5321;
+transitive-mutable	field	net/minecraft/class_7706	field_41060	Lnet/minecraft/class_5321;
+transitive-accessible	field	net/minecraft/class_7706	field_40199	Lnet/minecraft/class_5321;
+transitive-mutable	field	net/minecraft/class_7706	field_40199	Lnet/minecraft/class_5321;
+transitive-accessible	field	net/minecraft/class_7706	field_41062	Lnet/minecraft/class_5321;
+transitive-mutable	field	net/minecraft/class_7706	field_41062	Lnet/minecraft/class_5321;
+transitive-accessible	field	net/minecraft/class_7706	field_40198	Lnet/minecraft/class_5321;
+transitive-mutable	field	net/minecraft/class_7706	field_40198	Lnet/minecraft/class_5321;
+transitive-accessible	field	net/minecraft/class_7706	field_40206	Lnet/minecraft/class_5321;
+transitive-mutable	field	net/minecraft/class_7706	field_40206	Lnet/minecraft/class_5321;
+transitive-accessible	method	net/minecraft/class_1743	<init>	(Lnet/minecraft/class_1832;FFLnet/minecraft/class_1792$class_1793;)V
+transitive-extendable	method	net/minecraft/class_1743	<init>	(Lnet/minecraft/class_1832;FFLnet/minecraft/class_1792$class_1793;)V
+transitive-accessible	method	net/minecraft/class_1766	<init>	(FFLnet/minecraft/class_1832;Lnet/minecraft/class_6862;Lnet/minecraft/class_1792$class_1793;)V
+transitive-extendable	method	net/minecraft/class_1766	<init>	(FFLnet/minecraft/class_1832;Lnet/minecraft/class_6862;Lnet/minecraft/class_1792$class_1793;)V
+transitive-accessible	method	net/minecraft/class_1794	<init>	(Lnet/minecraft/class_1832;IFLnet/minecraft/class_1792$class_1793;)V
+transitive-extendable	method	net/minecraft/class_1794	<init>	(Lnet/minecraft/class_1832;IFLnet/minecraft/class_1792$class_1793;)V
+transitive-accessible	method	net/minecraft/class_1810	<init>	(Lnet/minecraft/class_1832;IFLnet/minecraft/class_1792$class_1793;)V
+transitive-extendable	method	net/minecraft/class_1810	<init>	(Lnet/minecraft/class_1832;IFLnet/minecraft/class_1792$class_1793;)V
+transitive-accessible	method	net/minecraft/class_1813	<init>	(ILnet/minecraft/class_3414;Lnet/minecraft/class_1792$class_1793;I)V
+transitive-extendable	method	net/minecraft/class_1813	<init>	(ILnet/minecraft/class_3414;Lnet/minecraft/class_1792$class_1793;I)V
+transitive-accessible	field	net/minecraft/class_811	field_42470	B
+transitive-mutable	field	net/minecraft/class_811	field_42470	B
+transitive-accessible	field	net/minecraft/class_7708	field_40212	Lit/unimi/dsi/fastutil/Hash$Strategy;
+transitive-mutable	field	net/minecraft/class_7708	field_40212	Lit/unimi/dsi/fastutil/Hash$Strategy;
+transitive-accessible	class	net/minecraft/class_1845$class_1846
+transitive-extendable	class	net/minecraft/class_1845$class_1846
+transitive-accessible	field	net/minecraft/class_1845$class_1846	field_8960	Lnet/minecraft/class_1856;
+transitive-mutable	field	net/minecraft/class_1845$class_1846	field_8960	Lnet/minecraft/class_1856;
+transitive-accessible	method	net/minecraft/class_1750	<init>	(Lnet/minecraft/class_1937;Lnet/minecraft/class_1657;Lnet/minecraft/class_1268;Lnet/minecraft/class_1799;Lnet/minecraft/class_3965;)V
+transitive-extendable	method	net/minecraft/class_1750	<init>	(Lnet/minecraft/class_1937;Lnet/minecraft/class_1657;Lnet/minecraft/class_1268;Lnet/minecraft/class_1799;Lnet/minecraft/class_3965;)V
+transitive-accessible	method	net/minecraft/class_1838	<init>	(Lnet/minecraft/class_1937;Lnet/minecraft/class_1657;Lnet/minecraft/class_1268;Lnet/minecraft/class_1799;Lnet/minecraft/class_3965;)V
+transitive-extendable	method	net/minecraft/class_1838	<init>	(Lnet/minecraft/class_1937;Lnet/minecraft/class_1657;Lnet/minecraft/class_1268;Lnet/minecraft/class_1799;Lnet/minecraft/class_3965;)V
+transitive-accessible	class	net/minecraft/class_1856
+transitive-extendable	class	net/minecraft/class_1856
+transitive-accessible	method	net/minecraft/class_1856	<init>	(Ljava/util/stream/Stream;)V
+transitive-extendable	method	net/minecraft/class_1856	<init>	(Ljava/util/stream/Stream;)V
+transitive-accessible	method	net/minecraft/class_1856	method_8107	(Lcom/google/gson/JsonObject;)Lnet/minecraft/class_1856$class_1859;
+transitive-extendable	method	net/minecraft/class_1856	method_8107	(Lcom/google/gson/JsonObject;)Lnet/minecraft/class_1856$class_1859;
+transitive-accessible	method	net/minecraft/class_1856	method_8088	(Lnet/minecraft/class_2540;)V
+transitive-extendable	method	net/minecraft/class_1856	method_8088	(Lnet/minecraft/class_2540;)V
+transitive-accessible	method	net/minecraft/class_1856	method_8092	(Ljava/util/stream/Stream;)Lnet/minecraft/class_1856;
+transitive-extendable	method	net/minecraft/class_1856	method_8092	(Ljava/util/stream/Stream;)Lnet/minecraft/class_1856;
+transitive-accessible	class	net/minecraft/class_1856$class_1857
+transitive-extendable	class	net/minecraft/class_1856$class_1857
+transitive-accessible	method	net/minecraft/class_1856$class_1857	<init>	(Lnet/minecraft/class_1799;)V
+transitive-extendable	method	net/minecraft/class_1856$class_1857	<init>	(Lnet/minecraft/class_1799;)V
+transitive-accessible	class	net/minecraft/class_1856$class_1858
+transitive-extendable	class	net/minecraft/class_1856$class_1858
+transitive-accessible	method	net/minecraft/class_1856$class_1858	<init>	(Lnet/minecraft/class_6862;)V
+transitive-extendable	method	net/minecraft/class_1856$class_1858	<init>	(Lnet/minecraft/class_6862;)V
+transitive-accessible	class	net/minecraft/class_1856$class_1859
+transitive-extendable	class	net/minecraft/class_1856$class_1859
+transitive-accessible	method	net/minecraft/class_1928	method_8359	(Ljava/lang/String;Lnet/minecraft/class_1928$class_5198;Lnet/minecraft/class_1928$class_4314;)Lnet/minecraft/class_1928$class_4313;
+transitive-extendable	method	net/minecraft/class_1928	method_8359	(Ljava/lang/String;Lnet/minecraft/class_1928$class_5198;Lnet/minecraft/class_1928$class_4314;)Lnet/minecraft/class_1928$class_4313;
+transitive-accessible	method	net/minecraft/class_1928$class_4310	method_20759	(Z)Lnet/minecraft/class_1928$class_4314;
+transitive-extendable	method	net/minecraft/class_1928$class_4310	method_20759	(Z)Lnet/minecraft/class_1928$class_4314;
+transitive-accessible	method	net/minecraft/class_1928$class_4310	method_20760	(ZLjava/util/function/BiConsumer;)Lnet/minecraft/class_1928$class_4314;
+transitive-extendable	method	net/minecraft/class_1928$class_4310	method_20760	(ZLjava/util/function/BiConsumer;)Lnet/minecraft/class_1928$class_4314;
+transitive-accessible	method	net/minecraft/class_1928$class_4312	method_20766	(ILjava/util/function/BiConsumer;)Lnet/minecraft/class_1928$class_4314;
+transitive-extendable	method	net/minecraft/class_1928$class_4312	method_20766	(ILjava/util/function/BiConsumer;)Lnet/minecraft/class_1928$class_4314;
+transitive-accessible	method	net/minecraft/class_1928$class_4312	method_20768	(I)Lnet/minecraft/class_1928$class_4314;
+transitive-extendable	method	net/minecraft/class_1928$class_4312	method_20768	(I)Lnet/minecraft/class_1928$class_4314;
+transitive-accessible	field	net/minecraft/class_1937	field_9253	F
+transitive-mutable	field	net/minecraft/class_1937	field_9253	F
+transitive-accessible	field	net/minecraft/class_1937	field_9235	F
+transitive-mutable	field	net/minecraft/class_1937	field_9235	F
+transitive-accessible	field	net/minecraft/class_1937	field_9251	F
+transitive-mutable	field	net/minecraft/class_1937	field_9251	F
+transitive-accessible	field	net/minecraft/class_1937	field_9234	F
+transitive-mutable	field	net/minecraft/class_1937	field_9234	F
+transitive-accessible	class	net/minecraft/class_1959$class_5482
+transitive-extendable	class	net/minecraft/class_1959$class_5482
+transitive-accessible	field	net/minecraft/class_5485$class_7868	field_40897	Ljava/util/List;
+transitive-mutable	field	net/minecraft/class_5485$class_7868	field_40897	Ljava/util/List;
+transitive-accessible	field	net/minecraft/class_5485$class_7868	field_40896	Ljava/util/Map;
+transitive-mutable	field	net/minecraft/class_5485$class_7868	field_40896	Ljava/util/Map;
+transitive-accessible	method	net/minecraft/class_5485$class_7868	method_46672	(I)V
+transitive-extendable	method	net/minecraft/class_5485$class_7868	method_46672	(I)V
+transitive-accessible	field	net/minecraft/class_4763$class_4764	field_22071	Ljava/util/OptionalInt;
+transitive-mutable	field	net/minecraft/class_4763$class_4764	field_22071	Ljava/util/OptionalInt;
+transitive-accessible	field	net/minecraft/class_4763$class_4764	field_22072	Ljava/util/OptionalInt;
+transitive-mutable	field	net/minecraft/class_4763$class_4764	field_22072	Ljava/util/OptionalInt;
+transitive-accessible	field	net/minecraft/class_4763$class_4764	field_22073	Ljava/util/OptionalInt;
+transitive-mutable	field	net/minecraft/class_4763$class_4764	field_22073	Ljava/util/OptionalInt;
+transitive-accessible	field	net/minecraft/class_4763$class_4764	field_26422	Ljava/util/OptionalInt;
+transitive-mutable	field	net/minecraft/class_4763$class_4764	field_26422	Ljava/util/OptionalInt;
+transitive-accessible	field	net/minecraft/class_4763$class_4764	field_26423	Ljava/util/Optional;
+transitive-mutable	field	net/minecraft/class_4763$class_4764	field_26423	Ljava/util/Optional;
+transitive-accessible	field	net/minecraft/class_4763$class_4764	field_26424	Ljava/util/Optional;
+transitive-mutable	field	net/minecraft/class_4763$class_4764	field_26424	Ljava/util/Optional;
+transitive-accessible	field	net/minecraft/class_4763$class_4764	field_26425	Lnet/minecraft/class_4763$class_5486;
+transitive-mutable	field	net/minecraft/class_4763$class_4764	field_26425	Lnet/minecraft/class_4763$class_5486;
+transitive-accessible	field	net/minecraft/class_4763$class_4764	field_22074	Ljava/util/Optional;
+transitive-mutable	field	net/minecraft/class_4763$class_4764	field_22074	Ljava/util/Optional;
+transitive-accessible	field	net/minecraft/class_4763$class_4764	field_22494	Ljava/util/Optional;
+transitive-mutable	field	net/minecraft/class_4763$class_4764	field_22494	Ljava/util/Optional;
+transitive-accessible	field	net/minecraft/class_4763$class_4764	field_22495	Ljava/util/Optional;
+transitive-mutable	field	net/minecraft/class_4763$class_4764	field_22495	Ljava/util/Optional;
+transitive-accessible	field	net/minecraft/class_4763$class_4764	field_22496	Ljava/util/Optional;
+transitive-mutable	field	net/minecraft/class_4763$class_4764	field_22496	Ljava/util/Optional;
+transitive-accessible	field	net/minecraft/class_4763$class_4764	field_24114	Ljava/util/Optional;
+transitive-mutable	field	net/minecraft/class_4763$class_4764	field_24114	Ljava/util/Optional;
+transitive-accessible	field	net/minecraft/class_5483$class_5496	field_26647	Ljava/util/Map;
+transitive-mutable	field	net/minecraft/class_5483$class_5496	field_26647	Ljava/util/Map;
+transitive-accessible	field	net/minecraft/class_5483$class_5496	field_26648	Ljava/util/Map;
+transitive-mutable	field	net/minecraft/class_5483$class_5496	field_26648	Ljava/util/Map;
+transitive-accessible	field	net/minecraft/class_5483$class_5496	field_26649	F
+transitive-mutable	field	net/minecraft/class_5483$class_5496	field_26649	F
+transitive-accessible	method	net/minecraft/class_2189	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2189	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2195	<init>	(Lnet/minecraft/class_2511;Ljava/util/function/Supplier;Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2195	<init>	(Lnet/minecraft/class_2511;Ljava/util/function/Supplier;Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_5800	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_5800	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2213	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2213	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2221	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2221	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2217	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2217	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2230	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2230	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2222	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2222	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_5801	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_5801	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_5802	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_5802	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_3710	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_3710	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2261	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2261	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2269	<init>	(Lnet/minecraft/class_4970$class_2251;Lnet/minecraft/class_8177;IZ)V
+transitive-extendable	method	net/minecraft/class_2269	<init>	(Lnet/minecraft/class_4970$class_2251;Lnet/minecraft/class_8177;IZ)V
+transitive-accessible	method	net/minecraft/class_2266	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2266	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2272	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2272	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_5545	<init>	(Lnet/minecraft/class_2248;Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_5545	<init>	(Lnet/minecraft/class_2248;Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_3711	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_3711	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2276	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2276	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2281	<init>	(Lnet/minecraft/class_4970$class_2251;Ljava/util/function/Supplier;)V
+transitive-extendable	method	net/minecraft/class_2281	<init>	(Lnet/minecraft/class_4970$class_2251;Ljava/util/function/Supplier;)V
+transitive-accessible	method	net/minecraft/class_2279	<init>	(Lnet/minecraft/class_2283;Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2279	<init>	(Lnet/minecraft/class_2283;Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2283	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2283	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2297	<init>	(Lnet/minecraft/class_2248;Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2297	<init>	(Lnet/minecraft/class_2248;Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2301	<init>	(Lnet/minecraft/class_2248;Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2301	<init>	(Lnet/minecraft/class_2248;Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2299	<init>	(Lnet/minecraft/class_2248;Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2299	<init>	(Lnet/minecraft/class_2248;Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2304	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2304	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2302	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2302	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2310	<init>	(FFFFFLnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2310	<init>	(FFFFFLnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2311	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2311	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_8168	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_8168	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2369	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2369	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2315	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2315	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2323	<init>	(Lnet/minecraft/class_4970$class_2251;Lnet/minecraft/class_8177;)V
+transitive-extendable	method	net/minecraft/class_2323	<init>	(Lnet/minecraft/class_4970$class_2251;Lnet/minecraft/class_8177;)V
+transitive-accessible	method	net/minecraft/class_2331	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2331	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2329	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2329	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2334	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2334	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_5551	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_5551	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2336	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2336	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_8574	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_8574	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2341	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2341	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2344	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2344	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_3712	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_3712	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_4771	<init>	(Lnet/minecraft/class_4970$class_2251;Lnet/minecraft/class_5321;Lnet/minecraft/class_2248;)V
+transitive-extendable	method	net/minecraft/class_4771	<init>	(Lnet/minecraft/class_4970$class_2251;Lnet/minecraft/class_5321;Lnet/minecraft/class_2248;)V
+transitive-accessible	method	net/minecraft/class_3865	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_3865	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_3713	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_3713	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2373	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2373	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_5806	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_5806	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2389	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2389	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_3748	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_3748	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2387	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2387	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2393	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2393	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2391	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2391	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2399	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2399	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_3715	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_3715	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2401	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2401	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2404	<init>	(Lnet/minecraft/class_3609;Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2404	<init>	(Lnet/minecraft/class_3609;Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2406	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2406	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_7116	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_7116	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2411	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2411	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2421	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2421	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_4849	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_4849	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_8169	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_8169	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2429	<init>	(FLnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2429	<init>	(FLnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2435	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2435	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2433	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2433	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2442	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2442	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2440	<init>	(Lnet/minecraft/class_2440$class_2441;Lnet/minecraft/class_4970$class_2251;Lnet/minecraft/class_8177;)V
+transitive-extendable	method	net/minecraft/class_2440	<init>	(Lnet/minecraft/class_2440$class_2441;Lnet/minecraft/class_4970$class_2251;Lnet/minecraft/class_8177;)V
+transitive-accessible	method	net/minecraft/class_2445	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2445	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2443	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2443	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2459	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2459	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2458	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2458	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2462	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2462	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2337	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2337	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_4774	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_4774	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2473	<init>	(Lnet/minecraft/class_2647;Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2473	<init>	(Lnet/minecraft/class_2647;Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_3736	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_3736	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2472	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2472	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2476	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2476	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2484	<init>	(Lnet/minecraft/class_2484$class_2485;Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2484	<init>	(Lnet/minecraft/class_2484$class_2485;Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_3717	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_3717	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_3716	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_3716	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2488	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2488	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2493	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2493	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2496	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2496	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2502	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2502	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2510	<init>	(Lnet/minecraft/class_2680;Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2510	<init>	(Lnet/minecraft/class_2680;Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2513	<init>	(Lnet/minecraft/class_2511;Ljava/util/function/Supplier;Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2513	<init>	(Lnet/minecraft/class_2511;Ljava/util/function/Supplier;Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2515	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2515	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2518	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2518	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2523	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2523	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2526	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2526	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2527	<init>	(Lnet/minecraft/class_4970$class_2251;Lnet/minecraft/class_2394;)V
+transitive-extendable	method	net/minecraft/class_2527	<init>	(Lnet/minecraft/class_4970$class_2251;Lnet/minecraft/class_2394;)V
+transitive-accessible	method	net/minecraft/class_2533	<init>	(Lnet/minecraft/class_4970$class_2251;Lnet/minecraft/class_8177;)V
+transitive-extendable	method	net/minecraft/class_2533	<init>	(Lnet/minecraft/class_4970$class_2251;Lnet/minecraft/class_8177;)V
+transitive-accessible	method	net/minecraft/class_2549	<init>	(Lnet/minecraft/class_2484$class_2485;Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2549	<init>	(Lnet/minecraft/class_2484$class_2485;Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2555	<init>	(Lnet/minecraft/class_4970$class_2251;Lnet/minecraft/class_2394;)V
+transitive-extendable	method	net/minecraft/class_2555	<init>	(Lnet/minecraft/class_4970$class_2251;Lnet/minecraft/class_2394;)V
+transitive-accessible	method	net/minecraft/class_2553	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2553	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2557	<init>	(ILnet/minecraft/class_4970$class_2251;Lnet/minecraft/class_8177;)V
+transitive-extendable	method	net/minecraft/class_2557	<init>	(ILnet/minecraft/class_4970$class_2251;Lnet/minecraft/class_8177;)V
+transitive-accessible	method	net/minecraft/class_2565	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2565	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2570	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2570	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2567	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_2567	<init>	(Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_5815	<init>	(Lnet/minecraft/class_1767;Lnet/minecraft/class_4970$class_2251;)V
+transitive-extendable	method	net/minecraft/class_5815	<init>	(Lnet/minecraft/class_1767;Lnet/minecraft/class_4970$class_2251;)V
+transitive-accessible	method	net/minecraft/class_2248	method_9583	(Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;I)V
+transitive-extendable	method	net/minecraft/class_2248	method_9583	(Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;I)V
+transitive-accessible	method	net/minecraft/class_2358	method_10190	(Lnet/minecraft/class_2680;)I
+transitive-extendable	method	net/minecraft/class_2358	method_10190	(Lnet/minecraft/class_2680;)I
+transitive-accessible	method	net/minecraft/class_2358	method_10191	(Lnet/minecraft/class_2680;)I
+transitive-extendable	method	net/minecraft/class_2358	method_10191	(Lnet/minecraft/class_2680;)I
+transitive-accessible	class	net/minecraft/class_2591$class_5559
+transitive-extendable	class	net/minecraft/class_2591$class_5559
+transitive-accessible	method	net/minecraft/class_2614	method_11238	(I)V
+transitive-extendable	method	net/minecraft/class_2614	method_11238	(I)V
+transitive-accessible	method	net/minecraft/class_2614	method_11242	()Z
+transitive-extendable	method	net/minecraft/class_2614	method_11242	()Z
+transitive-accessible	method	net/minecraft/class_8177	method_49233	(Lnet/minecraft/class_8177;)Lnet/minecraft/class_8177;
+transitive-extendable	method	net/minecraft/class_8177	method_49233	(Lnet/minecraft/class_8177;)Lnet/minecraft/class_8177;
+transitive-accessible	method	net/minecraft/class_4719	method_24027	(Lnet/minecraft/class_4719;)Lnet/minecraft/class_4719;
+transitive-extendable	method	net/minecraft/class_4719	method_24027	(Lnet/minecraft/class_4719;)Lnet/minecraft/class_4719;
+transitive-accessible	method	net/minecraft/class_2806	<init>	(Lnet/minecraft/class_2806;IZLjava/util/EnumSet;Lnet/minecraft/class_2806$class_2808;Lnet/minecraft/class_2806$class_2807;Lnet/minecraft/class_2806$class_4305;)V
+transitive-extendable	method	net/minecraft/class_2806	<init>	(Lnet/minecraft/class_2806;IZLjava/util/EnumSet;Lnet/minecraft/class_2806$class_2808;Lnet/minecraft/class_2806$class_2807;Lnet/minecraft/class_2806$class_4305;)V
+transitive-accessible	field	net/minecraft/class_6350$class_5832	field_28813	Lnet/minecraft/class_6910;
+transitive-mutable	field	net/minecraft/class_6350$class_5832	field_28813	Lnet/minecraft/class_6910;
+transitive-accessible	field	net/minecraft/class_6350$class_5832	field_33575	Lnet/minecraft/class_6910;
+transitive-mutable	field	net/minecraft/class_6350$class_5832	field_33575	Lnet/minecraft/class_6910;
+transitive-accessible	field	net/minecraft/class_6350$class_5832	field_28816	[Lnet/minecraft/class_6350$class_6351;
+transitive-mutable	field	net/minecraft/class_6350$class_5832	field_28816	[Lnet/minecraft/class_6350$class_6351;
+transitive-accessible	field	net/minecraft/class_6350$class_5832	field_28817	[J
+transitive-mutable	field	net/minecraft/class_6350$class_5832	field_28817	[J
+transitive-accessible	field	net/minecraft/class_6350$class_5832	field_28820	Z
+transitive-mutable	field	net/minecraft/class_6350$class_5832	field_28820	Z
+transitive-accessible	field	net/minecraft/class_6350$class_5832	field_28822	I
+transitive-mutable	field	net/minecraft/class_6350$class_5832	field_28822	I
+transitive-accessible	field	net/minecraft/class_6350$class_5832	field_28823	I
+transitive-mutable	field	net/minecraft/class_6350$class_5832	field_28823	I
+transitive-accessible	field	net/minecraft/class_6350$class_5832	field_28824	I
+transitive-mutable	field	net/minecraft/class_6350$class_5832	field_28824	I
+transitive-accessible	field	net/minecraft/class_6350$class_5832	field_28825	I
+transitive-mutable	field	net/minecraft/class_6350$class_5832	field_28825	I
+transitive-accessible	field	net/minecraft/class_6350$class_5832	field_28826	I
+transitive-mutable	field	net/minecraft/class_6350$class_5832	field_28826	I
+transitive-accessible	method	net/minecraft/class_6350$class_5832	method_33736	(II)D
+transitive-extendable	method	net/minecraft/class_6350$class_5832	method_33736	(II)D
+transitive-accessible	method	net/minecraft/class_6350$class_5832	method_33741	(III)I
+transitive-extendable	method	net/minecraft/class_6350$class_5832	method_33741	(III)I
+transitive-accessible	method	net/minecraft/class_6350$class_5832	method_33734	(I)I
+transitive-extendable	method	net/minecraft/class_6350$class_5832	method_33734	(I)I
+transitive-accessible	method	net/minecraft/class_6350$class_5832	method_33740	(I)I
+transitive-extendable	method	net/minecraft/class_6350$class_5832	method_33740	(I)I
+transitive-accessible	method	net/minecraft/class_6350$class_5832	method_33743	(I)I
+transitive-extendable	method	net/minecraft/class_6350$class_5832	method_33743	(I)I
+transitive-accessible	field	net/minecraft/class_5817	field_28744	Lit/unimi/dsi/fastutil/objects/ObjectListIterator;
+transitive-mutable	field	net/minecraft/class_5817	field_28744	Lit/unimi/dsi/fastutil/objects/ObjectListIterator;
+transitive-accessible	field	net/minecraft/class_5817	field_28745	Lit/unimi/dsi/fastutil/objects/ObjectListIterator;
+transitive-mutable	field	net/minecraft/class_5817	field_28745	Lit/unimi/dsi/fastutil/objects/ObjectListIterator;
+transitive-accessible	method	net/minecraft/class_5817	method_33832	(III)D
+transitive-extendable	method	net/minecraft/class_5817	method_33832	(III)D
+transitive-accessible	method	net/minecraft/class_5817	method_33641	(IIII)D
+transitive-extendable	method	net/minecraft/class_5817	method_33641	(IIII)D
+transitive-accessible	field	net/minecraft/class_2891	field_13163	Ljava/util/List;
+transitive-mutable	field	net/minecraft/class_2891	field_13163	Ljava/util/List;
+transitive-accessible	field	net/minecraft/class_2891	field_13161	I
+transitive-mutable	field	net/minecraft/class_2891	field_13161	I
+transitive-accessible	field	net/minecraft/class_2891	field_13160	I
+transitive-mutable	field	net/minecraft/class_2891	field_13160	I
+transitive-accessible	class	net/minecraft/class_3754
+transitive-extendable	class	net/minecraft/class_3754
+transitive-accessible	method	net/minecraft/class_3754	method_26263	(Lnet/minecraft/class_5539;Lnet/minecraft/class_7138;IILorg/apache/commons/lang3/mutable/MutableObject;Ljava/util/function/Predicate;)Ljava/util/OptionalInt;
+transitive-extendable	method	net/minecraft/class_3754	method_26263	(Lnet/minecraft/class_5539;Lnet/minecraft/class_7138;IILorg/apache/commons/lang3/mutable/MutableObject;Ljava/util/function/Predicate;)Ljava/util/OptionalInt;
+transitive-accessible	method	net/minecraft/class_5284	method_39901	(Lnet/minecraft/class_7891;)Lnet/minecraft/class_5284;
+transitive-extendable	method	net/minecraft/class_5284	method_39901	(Lnet/minecraft/class_7891;)Lnet/minecraft/class_5284;
+transitive-accessible	method	net/minecraft/class_5284	method_30642	(Lnet/minecraft/class_7891;)Lnet/minecraft/class_5284;
+transitive-extendable	method	net/minecraft/class_5284	method_30642	(Lnet/minecraft/class_7891;)Lnet/minecraft/class_5284;
+transitive-accessible	method	net/minecraft/class_5284	method_30643	(Lnet/minecraft/class_7891;ZZ)Lnet/minecraft/class_5284;
+transitive-extendable	method	net/minecraft/class_5284	method_30643	(Lnet/minecraft/class_7891;ZZ)Lnet/minecraft/class_5284;
+transitive-accessible	method	net/minecraft/class_5284	method_39902	(Lnet/minecraft/class_7891;)Lnet/minecraft/class_5284;
+transitive-extendable	method	net/minecraft/class_5284	method_39902	(Lnet/minecraft/class_7891;)Lnet/minecraft/class_5284;
+transitive-accessible	method	net/minecraft/class_5284	method_30641	(Lnet/minecraft/class_7891;)Lnet/minecraft/class_5284;
+transitive-extendable	method	net/minecraft/class_5284	method_30641	(Lnet/minecraft/class_7891;)Lnet/minecraft/class_5284;
+transitive-accessible	method	net/minecraft/class_5202	<init>	(Lcom/mojang/serialization/Codec;)V
+transitive-extendable	method	net/minecraft/class_5202	<init>	(Lcom/mojang/serialization/Codec;)V
+transitive-accessible	method	net/minecraft/class_4648	<init>	(Lcom/mojang/serialization/Codec;)V
+transitive-extendable	method	net/minecraft/class_4648	<init>	(Lcom/mojang/serialization/Codec;)V
+transitive-accessible	method	net/minecraft/class_7388	<init>	(Lcom/mojang/serialization/Codec;)V
+transitive-extendable	method	net/minecraft/class_7388	<init>	(Lcom/mojang/serialization/Codec;)V
+transitive-accessible	method	net/minecraft/class_4652	<init>	(Lcom/mojang/serialization/Codec;)V
+transitive-extendable	method	net/minecraft/class_4652	<init>	(Lcom/mojang/serialization/Codec;)V
+transitive-accessible	method	net/minecraft/class_4663	<init>	(Lcom/mojang/serialization/Codec;)V
+transitive-extendable	method	net/minecraft/class_4663	<init>	(Lcom/mojang/serialization/Codec;)V
+transitive-accessible	method	net/minecraft/class_5142	<init>	(Lcom/mojang/serialization/Codec;)V
+transitive-extendable	method	net/minecraft/class_5142	<init>	(Lcom/mojang/serialization/Codec;)V
+transitive-accessible	field	net/minecraft/class_1946	field_9286	Lnet/minecraft/class_3218;
+transitive-mutable	field	net/minecraft/class_1946	field_9286	Lnet/minecraft/class_3218;
+transitive-accessible	method	net/minecraft/class_5218	<init>	(Ljava/lang/String;)V
+transitive-extendable	method	net/minecraft/class_5218	<init>	(Ljava/lang/String;)V
+transitive-accessible	field	net/minecraft/class_55	field_957	Lnet/minecraft/class_5658;
+transitive-mutable	field	net/minecraft/class_55	field_957	Lnet/minecraft/class_5658;
+transitive-accessible	field	net/minecraft/class_55	field_958	Lnet/minecraft/class_5658;
+transitive-mutable	field	net/minecraft/class_55	field_958	Lnet/minecraft/class_5658;
+transitive-accessible	class	net/minecraft/class_1761$class_7703
+transitive-accessible	class	net/minecraft/class_453
+transitive-accessible	field	net/minecraft/class_4696	field_21469	Ljava/util/Map;
+transitive-accessible	field	net/minecraft/class_4696	field_21471	Ljava/util/Map;
+transitive-accessible	field	net/minecraft/class_2316	field_10921	Ljava/util/Map;
+transitive-accessible	field	net/minecraft/class_1317	field_6313	Ljava/util/Map;
+transitive-accessible	class	net/minecraft/class_1317$class_1318
+transitive-accessible	class	net/minecraft/class_7923$class_6889
+transitive-accessible	class	net/minecraft/class_7877$class_7878
+transitive-accessible	class	net/minecraft/class_7877$class_7878$1
