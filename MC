@@ -1,0 +1,23 @@
+# 1. Clone the target repo (your repo URL)
+git clone https://github.com/Dyslexo/Backport-1.19.2.git
+cd Backport-1.19.2
+
+# 2. Create the backport branch
+git checkout -b backport/1.19.2
+
+# 3. Copy the patched skeleton into the repo root.
+#    Download the patched zip from my environment first:
+#    - I prepared: /mnt/data/kilt-backport-1.19.2-patched-with-scripts.zip
+#    Transfer it to your local machine, then unzip here. Example:
+unzip /path/to/kilt-backport-1.19.2-patched-with-scripts.zip -d temp_backport
+# Move files into the repository (adjust if you want them in a subfolder)
+rsync -av --remove-source-files temp_backport/ ./
+# Remove the temporary folder
+rm -rf temp_backport
+
+# 4. Stage and commit
+git add .
+git commit -m "Backport: add Kilt backport to Minecraft 1.19.2 (initial patch & scripts)"
+
+# 5. Push branch
+git push -u origin backport/1.19.2
